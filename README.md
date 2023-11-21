@@ -1,7 +1,7 @@
 # Project Description
 
 ### General usage
-![Game Example Screenshot](https://github.com/brosio-lsn/ICWars/tree/main/game_example_screenshot.png)
+![Game Example Screenshot](https://github.com/brosio-lsn/ICWars/blob/main/game_example_screenshot.png)
 
 The player can move his cursor thanks to the arrows buttons. Information about the cell the cursor is on is provided in
 the bottom left corner. When the cursor is on an ally unit (colored in blue) the player can press ENTER to select the
